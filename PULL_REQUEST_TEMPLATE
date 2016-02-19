@@ -10,3 +10,49 @@ SCR:
 - [ ] Cross-Site Scripting
 - [ ] Improper Access Control
 - [ ] Cross-Site Request Forgery
+
+
+- [ ] Gift Card Processor Adapters
+- [ ] Enterprise API
+- [ ] Internal API
+- [ ] Merchant/Bulk API
+- [ ] Transaction API (Vesta Callback)
+- [ ] Image Services
+- [ ] Admin
+- [ ] Back Office
+- [ ] Invoice
+- [ ] Premium Shopping Cart
+- [ ] Mobile Shopping Cart
+- [ ] Gift Card Portal
+- [ ] Gifting Plugin
+- [ ] Cert
+- [ ] Corporate Customer Portal
+- [ ] Documentation
+- [ ] Documentation Examples
+- [ ] Sorry Service (Vesta)
+- [ ] tools.giftango.com
+- [ ] Delivery Service
+- [ ] Email Bounce Service
+- [ ] SMS Service
+- [ ] Event Action Queue Processor Service
+- [ ] Queued API Request Service
+- [ ] Physical Fulfillment Service
+- [ ] Shipment Confirmation Service
+- [ ] Loyalty Extract Service
+- [ ] Alerting Service Task
+- [ ] Gift Card Activation Service Task (GGCPS)
+- [ ] Auto Reload Service Task
+- [ ] Bulk Activation Service Task
+- [ ] Credit Card Expiration Reminder Service Task
+- [ ] GiveX Recon File Utility Service Task
+- [ ] Recon File Utility Service Task
+- [ ] WFM Recon File Utility Service Task
+- [ ] SVS Recon File FTP Service Task
+- [ ] Marriott FTP Service Task
+- [ ] Loyalty Invoicing Service Task
+- [ ] Merchant Invoicing Service Task
+- [ ] Database Schema
+- [ ] Database Procedure
+- [ ] Database Data
+- [ ] Application Configuration
+- [ ] Specify your own value:
