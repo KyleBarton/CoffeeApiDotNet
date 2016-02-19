@@ -1,0 +1,12 @@
+SCR:
+
+ 
+- [x] Injection Flaws
+- [x] Buffer Overflow
+- [x] Insecure Cryptographic Storage
+- [x] Insecure Communications
+- [x] Improper Error Handling
+- [x] All Newly Discovered "High" Vulnerabilities
+- [x] Cross-Site Scripting
+- [x] Improper Access Control
+- [x] Cross-Site Request Forgery
