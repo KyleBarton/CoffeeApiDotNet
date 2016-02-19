@@ -1,12 +1,12 @@
 SCR:
 
  
-- [] Injection Flaws
-- [] Buffer Overflow
-- [] Insecure Cryptographic Storage
-- [] Insecure Communications
-- [] Improper Error Handling
-- [] All Newly Discovered "High" Vulnerabilities
-- [] Cross-Site Scripting
-- [] Improper Access Control
-- [] Cross-Site Request Forgery
+- [ ] Injection Flaws
+- [ ] Buffer Overflow
+- [ ] Insecure Cryptographic Storage
+- [ ] Insecure Communications
+- [ ] Improper Error Handling
+- [ ] All Newly Discovered "High" Vulnerabilities
+- [ ] Cross-Site Scripting
+- [ ] Improper Access Control
+- [ ] Cross-Site Request Forgery
